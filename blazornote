@@ -4,3 +4,5 @@ By using Visual studio 2022,there are three types of projects in Blazor that are
       3. Blazor Web App (Both server-side rendeing and client interactivity)
 
 
+Blazor Command 
+=1. add-migration initial 
