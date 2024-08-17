@@ -5,4 +5,4 @@ By using Visual studio 2022,there are three types of projects in Blazor that are
 
 
 Blazor Command 
-=1. add-migration initial 
+1. add-migration initial 
