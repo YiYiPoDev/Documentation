@@ -1,0 +1,6 @@
+By using Visual studio 2022,there are three types of projects in Blazor that are supported in visual studio 2022 (.NET8)
+      1. Blazor WebAssembly (use for web apps with rich dynamic user interfaces (UIs))
+      2. Blazor WebServer (run server-side inside an ASP.NET Core App)
+      3. Blazor Web App (Both server-side rendeing and client interactivity)
+
+
