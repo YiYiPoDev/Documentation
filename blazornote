@@ -3,6 +3,10 @@ By using Visual studio 2022,there are three types of projects in Blazor that are
       2. Blazor WebServer (run server-side inside an ASP.NET Core App)
       3. Blazor Web App (Both server-side rendeing and client interactivity)
 
-
 Blazor Command 
-1. add-migration initial 
+1. add-migration initial
+
+Database ConnectionString (SQL Server 2022) in Blazor Web Server Applications
+"ConnectionStrings": {
+  "MyBlazorDBContext": "Server=local/sqlserverexpress;Database=MyBlazorCrud;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=true;"
+}
