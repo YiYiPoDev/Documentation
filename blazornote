@@ -10,3 +10,4 @@ Database ConnectionString (SQL Server 2022) in Blazor Web Server Applications
 "ConnectionStrings": {
   "MyBlazorDBContext": "Server=local/sqlserverexpress;Database=MyBlazorCrud;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=true;"
 }
+
